@@ -6,7 +6,9 @@
 
 Are you a FoE addict ?
 - needs stats for your city ?
-- 
+- clean your friends list 
+- list incidents available to find
+
 
 Do you want to know how much FP to add to a GB
 - FP needed to lock a spot
