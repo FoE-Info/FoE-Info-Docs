@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![Image](https://foe-info.github.io/images/foebanner.jpg)
 
-You can use the [editor on GitHub](https://github.com/FoE-Info/FoE-Info.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# FoE-Info - Essential Info for Forge of Empires addicts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## a chrome extension that monitors game activity
 
-### Markdown
+Are you a FoE addict ?
+- needs stats for your city ?
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Do you want to know how much FP to add to a GB
+- FP needed to lock a spot
+- 1.9 contributions
 
-```markdown
-Syntax highlighted code block
+Are you a leader of a Diamond Guild, and need to track member participation and resources
+- Battleground
+- Expedition
+- GVG siege costs / sector power
+- Treasury
 
-# Header 1
-## Header 2
-### Header 3
+** this tool DOES NOT automate any game action **
+we've been using and developing this tool for around 2 years.
 
-- Bulleted
-- List
+## Support 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FoE-Info/FoE-Info.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please visit [Link](https://github.com/FoE-Info/chrome/issues/) if you have problems or ideas
