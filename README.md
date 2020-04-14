@@ -31,7 +31,7 @@ ask, if you want to post data to your guild's discord
 
 ## How to Use FoE-Info
 
-See [here](https://github.com/FoE-Info/chrome/issues/1) for instructions on using FoE-Info
+See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-using-FoE-Info) for instructions on using FoE-Info
 
 ## Support 
 
