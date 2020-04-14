@@ -21,10 +21,12 @@ Are you a leader of a Diamond Guild, and need to track member participation and 
 - Check city stats for potential new guild members (Att/Def %, Guild goods/power)
 - Treasury
 
-** this tool DOES NOT automate any game action **
+**this tool DOES NOT automate any game action**
+
 we've been using and developing this tool for around 2 years.
 
-easily copy info, so you can paste into your own docs
+easily copy info, so you can paste into your own docs.
+
 ask, if you want to post data to your guild's discord
 
 ## How to Use FoE-Info
