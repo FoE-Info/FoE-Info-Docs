@@ -35,5 +35,4 @@ See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-usin
 
 ## Support 
 
-Please visit [Link](https://github.com/FoE-Info/chrome/issues/) if you have problems or ideas
-or email foegameinfo@gmail.com
+Please visit our discord [server](https://discord.gg/9Mgn6UR) if you have questions, problems or feature requests. We sometimes do email too: foegameinfo@gmail.com
