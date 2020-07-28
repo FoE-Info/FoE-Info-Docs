@@ -2,7 +2,7 @@
 
 # Essential Info for Forge of Empires addicts
 
-## a chrome extension that monitors game activity
+## a chrome/brave extension that monitors game activity
 
 Are you a FoE addict ?
 - needs stats for your city ?
@@ -27,11 +27,13 @@ we've been using and developing this tool for around 2 years.
 
 easily copy info, so you can paste into your own docs.
 
-ask, if you want to post data to your guild's discord
+ask, if you want to post data to your guild's discord or Google Sheet
 
 ## How to Use FoE-Info
 
 See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-using-FoE-Info) for instructions on using FoE-Info
+
+We use and recommend [Brave](https://brave.com/foe910) browser for playing FoE
 
 ## Support 
 
