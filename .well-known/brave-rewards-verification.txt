@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: foe-info.github.io
-Token: 56f1047c77fffa214d00d80a14c5e8ad33363724acb02d9f2c6d8107e017e066
