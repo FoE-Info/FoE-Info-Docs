@@ -1,6 +1,6 @@
 ![Image](https://foe-info.github.io/images/foebanner.jpg)
 
-# Essential Info for Forge of Empires addicts
+# Essential Info for Forge of Empires Addicts
 
 ## a browser extension that monitors game activity
 
