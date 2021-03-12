@@ -5,7 +5,7 @@
 ## a browser extension that monitors game activity
 
 Works with Chrome or Brave
- - auto install from the [web store](https://chrome.google.com/webstore/detail/forge-of-empires-game-inf/clifeblhbipgjjlngahknaagkkikfhmo)
+ - auto install from the [web store](https://chrome.google.com/webstore/detail/foe-info/clifeblhbipgjjlngahknaagkkikfhmo)
  - See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-using-FoE-Info) for instructions on using FoE-Info
  - We use and recommend [Brave](https://brave.com/foe988) for fast GvG action
 
