@@ -1,4 +1,4 @@
-![Image](https://foe-info.github.io/images/foebanner.jpg)
+![Image](/images/foebanner.jpg)
 
 # Essential Info for Forge of Empires Addicts
 
