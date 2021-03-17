@@ -4,6 +4,10 @@
 
 ## a browser extension that monitors game activity
 
+
+
+[![image](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/foe-info/clifeblhbipgjjlngahknaagkkikfhmo)
+
 Works with Chrome or Brave
  - auto install from the [web store](https://chrome.google.com/webstore/detail/foe-info/clifeblhbipgjjlngahknaagkkikfhmo)
  - See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-using-FoE-Info) for instructions on using FoE-Info
