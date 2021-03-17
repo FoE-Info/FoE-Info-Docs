@@ -8,10 +8,11 @@
 
 [![image](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chrome.google.com/webstore/detail/foe-info/clifeblhbipgjjlngahknaagkkikfhmo)
 
-Works with Chrome or Brave
+Works with Chrome / Brave / Edge / Opera*
  - auto install from the [web store](https://chrome.google.com/webstore/detail/foe-info/clifeblhbipgjjlngahknaagkkikfhmo)
  - See [here](https://github.com/FoE-Info/FoE-Info.github.io/wiki/How-to-start-using-FoE-Info) for instructions on using FoE-Info
  - We use and recommend [Brave](https://brave.com/foe988) for fast GvG action
+ - \* Opera users will need to first install this [addon](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
 
 Are you a FoE addict ?
 - needs stats for your city ?
