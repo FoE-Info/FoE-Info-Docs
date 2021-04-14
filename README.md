@@ -51,4 +51,4 @@ we've been using and developing this tool for around 2 years. we innovate, not i
 
 need help, or got a request ? please visit our [discord](https://discord.gg/9Mgn6UR). We sometimes do email too: foegameinfo@gmail.com
 
-If you like FoE-Info, why not [Donate](https://paypal.me/pools/c/8rhGhGLUCc) some coffee !
+If you like FoE-Info, why not <a href="https://www.buymeacoffee.com/foei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60" width="217"></a> or [Donate](https://paypal.me/pools/c/8rhGhGLUCc) 
