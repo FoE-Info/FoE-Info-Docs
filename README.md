@@ -41,11 +41,11 @@ unlike similar tools, FoE-Info respects your privacy
 
 easily copy info, so you can paste into your own docs.
 
-*coming soon* post data direct to discord or Google Sheet
+post data direct to discord or Google Sheet
 
 We use and recommend [Brave](https://brave.com/foe988) browser for playing FoE
 
-we've been using and developing this tool for around 2 years. we innovate, not imitate.
+we've been using and developing this tool for around 5 years. we innovate, not imitate.
 
 ## Support 
 
